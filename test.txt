@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 486D-DABD
+
+ Directory of C:\Users\Bindu\Desktop\GIT Practice
+
+06/16/2018  12:21 AM    <DIR>          .
+06/16/2018  12:21 AM    <DIR>          ..
+06/16/2018  12:21 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,089,361,408 bytes free
